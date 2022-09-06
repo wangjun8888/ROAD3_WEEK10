@@ -1,0 +1,24 @@
+{
+  "name": "road3week10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjun8888/ROAD3_WEEK10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjun8888/ROAD3_WEEK10/issues"
+  },
+  "homepage": "https://github.com/wangjun8888/ROAD3_WEEK10#readme",
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "next": "^12.2.5"
+  }
+}
